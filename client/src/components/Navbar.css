@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ff7f32; /* Orange color */
+    padding: 10px 20px;
+  }
+  
+  .navbar-logo h1 {
+    color: white;
+    font-size: 1.5rem;
+  }
+  
+  .navbar-links a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 1.1rem;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
+  
