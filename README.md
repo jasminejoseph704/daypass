@@ -123,4 +123,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Note:** Make sure to replace the placeholder `yourusername` in the GitHub clone URL and any other configuration specific to your environment (e.g., Firebase credentials, JWT secrets, etc.).
